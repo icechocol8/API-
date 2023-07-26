@@ -17,7 +17,7 @@
     <script>
         function initMap() {
             // Replace "YOUR_GITHUB_USERNAME" with your GitHub username
-            const githubUsername = 'YOUR_GITHUB_USERNAME';
+            const githubUsername = 'icechocol8';
 
             // Fetch GitHub user data
             fetch(`https://api.github.com/users/${githubUsername}`)
