@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>API Demo</title>
-    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_GOOGLE_MAPS_API_KEY&libraries=places" defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB7OFrD94PLYqsUCDL3-GQMFQCSDAfvCyc&libraries=places" defer></script>
     <style>
         #map {
             height: 400px;
@@ -41,6 +41,6 @@
                 .catch(error => console.error('Error fetching GitHub data:', error));
         }
     </script>
-    <script async defer src="https://maps.googleapis.com/maps/api/js?key=YOUR_GOOGLE_MAPS_API_KEY&callback=initMap"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB7OFrD94PLYqsUCDL3-GQMFQCSDAfvCyc&callback=initMap"></script>
 </body>
 </html>
